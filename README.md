@@ -7,8 +7,8 @@ The option will be provided to the user to choose the new slot after one month a
  
 # Implementation:
 The frontend was made using HandleBars, CSS, and JavaScript to create a responsive and interactive UI.<br>
-The backend was developed in node.js and express.js. Using some middlewares like jwt, to generate tokens, cors to enable the external ports for the frontend.<br>
-I have used MongoDB Atlas as Database for storing different tyes of data like user details, payment details, and slot booking details.
+The backend was developed in node.js and express.js. Using some middlewares like jwt, to generate tokens, and cors to enable the external ports for the frontend.<br>
+I have used MongoDB Atlas as Database for storing different types of data like user details, payment details, and slot booking details.
 # Screenshots of the project:
 
 
